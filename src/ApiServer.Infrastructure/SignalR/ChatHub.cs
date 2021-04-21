@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.SignalR;
+﻿using ApiServer.Infrastructure.Extensions;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.Extensions.Caching.Distributed;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ApiServer.Infrastructure.SignalR
